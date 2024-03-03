@@ -108,7 +108,12 @@ In order to utilize a different engine, add `engine: <other tool>` to the releva
 If you've got Go installed and configured you can install `gf` with:
 
 ```
-▶ go get -u github.com/tomnomnom/gf
+▶ go get -u github.com/tomnomnom/gf OR go install github.com/tomnomnom/gf@latest
+
+#Robin
+
+And Refarecne Install Website https://medium.com/@sherlock297/how-to-install-gf-tool-in-kali-linux-fc672053a943
+
 ```
 
 If you've installed using `go get`, you can enable auto-completion to your `.bashrc` like this:
