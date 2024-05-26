@@ -108,7 +108,7 @@ In order to utilize a different engine, add `engine: <other tool>` to the releva
 If you've got Go installed and configured you can install `gf` with:
 
 ```
-▶ go get -u github.com/tomnomnom/gf OR go install github.com/tomnomnom/gf@latest
+▶ go get -u github.com/tomnomnom/gf [OR] go install github.com/tomnomnom/gf@latest
 
 #Robin
 
