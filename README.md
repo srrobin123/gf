@@ -112,7 +112,7 @@ If you've got Go installed and configured you can install `gf` with:
 
 #Robin
 
-And Refarecne Install Website https://medium.com/@sherlock297/how-to-install-gf-tool-in-kali-linux-fc672053a943
+And Refarecne Install Website: https://medium.com/@sherlock297/how-to-install-gf-tool-in-kali-linux-fc672053a943
 
 ```
 
